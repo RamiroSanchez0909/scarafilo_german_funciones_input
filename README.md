@@ -1,1 +1,0 @@
-# scarafilo_german_funciones_input
